@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-> - to run the server: npm run server
+> - to run the server/client: npm run dev
